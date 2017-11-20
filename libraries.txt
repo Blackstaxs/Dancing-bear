@@ -1,0 +1,9 @@
+the libraries you need to install are: 
+
+
+npm install react-navigation --save  (navigation)
+n
+
+pm install react-native-camera-roll-picker --save
+  (multiple pictures selection)
+npm install react-native-image-gallery --save   (slide show)
